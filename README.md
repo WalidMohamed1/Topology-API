@@ -22,5 +22,5 @@
       <li>main.java</li>
    </ul>
  
- <h4>ScreenShot</h4>
- ![Capture](https://user-images.githubusercontent.com/51799013/147846253-91d0ed3b-1d6e-4fa4-8173-757b55406323.PNG)
+<h4>ScreenShot</h4>
+![Capture](https://user-images.githubusercontent.com/51799013/147846253-91d0ed3b-1d6e-4fa4-8173-757b55406323.PNG)
