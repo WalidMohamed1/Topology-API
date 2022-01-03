@@ -1,5 +1,5 @@
 # Topology-API
- API library which reads, writes to and from disk, stores multiple topologies in memory and execute operations on topologies.
+ API library which reads and writes topologies (JSON file) to and from disk, stores multiple topologies in memory and execute operations on it.
  
  <h4>Language used:</h4>
  <ul>
